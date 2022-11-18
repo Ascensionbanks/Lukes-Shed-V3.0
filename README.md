@@ -1,8 +1,7 @@
-# Lukes-Shed-V3.0
-Shit version of bobs shack 
-Join the discord:
-Discord.gg/lukesshed 
+# Steve's-Shack-V3.0
+Minecraft version of Bob'Sdhack 
+
 thanks and keep playing
 
 
-made by luke ripple
+made by HiggsInSpace
